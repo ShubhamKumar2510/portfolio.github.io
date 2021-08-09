@@ -19,7 +19,7 @@
     "react-scripts": "4.0.3",
     "swiper": "^6.8.1",
     "web-vitals": "^1.0.1",
-    "homepage": "https://shubhamkumar2510.github.io/shubhamportfolio/"
+    "homepage": "https://shubhamkumar2510.github.io/portfolio/"
   },
   "scripts": {
     "start": "react-scripts start",
